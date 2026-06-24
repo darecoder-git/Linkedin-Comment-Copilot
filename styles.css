@@ -1,0 +1,29 @@
+/* .ai-comment-btn {
+  margin-top: 8px;
+  padding: 6px 10px;
+  background: #0a66c2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.ai-comment-btn:hover {
+  background: #004182;
+} */
+
+.ai-comment-btn {
+  margin: 8px;
+  padding: 8px 14px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  background: #0a66c2;
+  color: white;
+  font-weight: 600;
+}
+
+.ai-comment-btn:hover {
+  opacity: 0.9;
+}
